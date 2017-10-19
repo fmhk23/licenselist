@@ -1,7 +1,7 @@
 Package: licenselist
 Title: Get License information list
 Version: 0.0.1
-Authors@R: person("Fumihiko", "Kubota", email = "23326kubotafumihiko@gmail.com",role = c("aut", "cre"))
+Authors@R: person(“23”, “Heiuchi”, email = “Please see github”,role = c("aut", "cre"))
 Description: Get license information from all installed packages.
 Depends:
     R (>= 3.3.2)
